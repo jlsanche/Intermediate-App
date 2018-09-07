@@ -23,6 +23,7 @@
 		0008EA9420CC9D1800DE92C3 /* IntermediateTrainingModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0008EA9220CC9D1800DE92C3 /* IntermediateTrainingModel.xcdatamodeld */; };
 		0008EA9620CCB18300DE92C3 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0008EA9520CCB18300DE92C3 /* CoreDataManager.swift */; };
 		0008EA9820CE540B00DE92C3 /* CompanyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0008EA9720CE540B00DE92C3 /* CompanyCell.swift */; };
+		003BAAE921423576007C937B /* Intermediate App in Resources */ = {isa = PBXBuildFile; fileRef = 003BAAE821423576007C937B /* Intermediate App */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		0008EA9320CC9D1800DE92C3 /* IntermediateTrainingModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IntermediateTrainingModel.xcdatamodel; sourceTree = "<group>"; };
 		0008EA9520CCB18300DE92C3 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 		0008EA9720CE540B00DE92C3 /* CompanyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyCell.swift; sourceTree = "<group>"; };
+		003BAAE821423576007C937B /* Intermediate App */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Intermediate App"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		0008EA4D20CC556200DE92C3 = {
 			isa = PBXGroup;
 			children = (
+				003BAAE821423576007C937B /* Intermediate App */,
 				0008034520D9EFBD008C5247 /* CompaniesController+CreateCompany.swift */,
 				0008034720D9F10F008C5247 /* CompaniesController+UITableView.swift */,
 				0008034B20DA04C9008C5247 /* Helpers */,
@@ -171,6 +174,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				003BAAE921423576007C937B /* Intermediate App in Resources */,
 				0008EA6420CC556300DE92C3 /* LaunchScreen.storyboard in Resources */,
 				0008EA6120CC556300DE92C3 /* Assets.xcassets in Resources */,
 				0008EA5F20CC556200DE92C3 /* Main.storyboard in Resources */,
